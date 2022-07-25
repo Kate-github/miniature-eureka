@@ -14,3 +14,11 @@ When I click on an existing note in the list in the left-hand column </br>
 Then that note appears in the right-hand column </br>
 When I click on the Write icon in the navigation at the top of the page </br>
 Then I am presented with empty fields to enter a new note title and the note's text in the right-hand column </br>
+
+URL of app running on Heroku:
+
+https://note-taker-katelam.herokuapp.com/
+
+GitHub URL:
+
+https://github.com/Kate-github/miniature-eureka
